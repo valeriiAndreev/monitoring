@@ -1,4 +1,5 @@
 # monitoring
+C++, for Linux.
 Client-Server application for monitoring work activity
 
 Explanation
